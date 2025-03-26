@@ -142,12 +142,6 @@ Contributions are welcome! Feel free to open an issue or a pull request.
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 📚 Citation
 
 If you use this repo for your research or teaching, please cite:
