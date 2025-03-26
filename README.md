@@ -140,20 +140,6 @@ Tests coming soon. Training scripts double as sanity checks.
 
 Contributions are welcome! Feel free to open an issue or a pull request.
 
----
-
-## 📚 Citation
-
-If you use this repo for your research or teaching, please cite:
-
-```bibtex
-@misc{tinyedm2025,
-  author = {Alexandre Verine},
-  title = {tiny-edm: Minimal implementation of EDM diffusion models},
-  year = {2025},
-  howpublished = {\url{https://github.com/alexverine/tiny-edm}}
-}
-```
 
 ---
 
